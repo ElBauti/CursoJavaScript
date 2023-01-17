@@ -1,0 +1,17 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "ejercicios m3",
+  "main": "index.js",
+  "scripts": {
+    "factorialFor":"factorial-for.js",
+    "factorialWhile":"factorial-while.js",
+    "factorialBreak":"factorial-break.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "m3"
+  ],
+  "author": "Bauti",
+  "license": "ISC"
+}

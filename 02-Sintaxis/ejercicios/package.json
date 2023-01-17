@@ -1,0 +1,14 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "Ejercicios del m2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "m2"
+  ],
+  "author": "Bauti",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+//Archivo de configuración de reglas de eslint
+
+{
+    "rules": {
+        "eqeqeq":"warn",
+        "strict":"off",
+        "quotes":["error", "single"],
+        "semi":["error", "never"]
+    }
+
+}
